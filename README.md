@@ -9,6 +9,12 @@ This project cleans a raw sales dataset, prepares it for analysis, and creates a
 - Detects and caps outliers with the IQR method.
 - Creates derived fields such as revenue, month, and order value band.
 - Exports cleaned data and an HTML dashboard-style report.
+  
+## Link
+
+```web
+https://github.com/sdnikil1sn-ops/data_cleaning_thiranex
+```
 
 ## Project Structure
 
