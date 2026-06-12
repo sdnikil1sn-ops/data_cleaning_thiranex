@@ -1,0 +1,31 @@
+order_id,order_date,customer,region,product,category,quantity,unit_price,revenue,month,order_value_band
+1001,2026-01-03,Aarav Sharma,North,Laptop,Electronics,2,33872.5,67745.0,2026-01,High
+1002,2026-01-05,Diya Patel,West,Office Chair,Furniture,3,7200.0,21600.0,2026-01,Medium
+1003,2026-01-08,Rohan Mehta,South,Notebook,Stationery,19,80.0,1520.0,2026-01,Low
+1004,2026-01-12,Unknown Customer,East,Desk,Furniture,1,14200.0,14200.0,2026-01,Medium
+1005,2026-01-14,Anika Rao,North,Wireless Mouse,Electronics,7,850.0,5950.0,2026-01,Low
+1006,2026-01-18,Kabir Khan,West,Monitor,Electronics,2,11800.0,23600.0,2026-01,Medium
+1007,2026-01-22,Meera Iyer,South,Pen Set,Stationery,2,220.0,440.0,2026-01,Low
+1008,2026-01-25,Vivaan Das,East,Laptop,Electronics,1,33872.5,33872.5,2026-01,Medium
+1009,2026-02-02,Sara Thomas,North,Desk,Furniture,2,13900.0,27800.0,2026-02,Medium
+1010,2026-02-06,Arjun Nair,West,Printer,Electronics,1,11800.0,11800.0,2026-02,Medium
+1011,2026-02-09,Isha Singh,South,Notebook,Stationery,19,75.0,1425.0,2026-02,Low
+1012,2026-02-12,Dev Verma,East,Office Chair,Furniture,4,6900.0,27600.0,2026-02,Medium
+1013,2026-02-15,Nisha Bose,North,Monitor,Electronics,3,11500.0,34500.0,2026-02,Medium
+1014,2026-02-19,Om Kapoor,West,Pen Set,Stationery,19,210.0,3990.0,2026-02,Low
+1015,2026-02-24,Tara Jain,South,Laptop,Electronics,1,33872.5,33872.5,2026-02,Medium
+1016,2026-03-01,Reyansh Roy,East,Desk,Furniture,2,14500.0,29000.0,2026-03,Medium
+1017,2026-03-04,Zoya Ali,North,Printer,Electronics,2,9200.0,18400.0,2026-03,Medium
+1018,2026-03-08,Aditya Sen,West,Wireless Mouse,Electronics,10,830.0,8300.0,2026-03,Low
+1019,2026-03-13,Kiara Shah,South,Office Chair,Furniture,3,7100.0,21300.0,2026-03,Medium
+1020,2026-03-16,Neil Dutta,East,Notebook,Stationery,19,85.0,1615.0,2026-03,Low
+1021,2026-03-18,Priya Menon,North,Laptop,Electronics,2,33872.5,67745.0,2026-03,High
+1022,2026-03-22,Yash Gupta,West,Monitor,Electronics,1,12000.0,12000.0,2026-03,Medium
+1023,2026-03-25,Avni Joshi,South,Desk,Furniture,1,14100.0,14100.0,2026-03,Medium
+1024,2026-04-02,Manav Reddy,East,Pen Set,Stationery,19,215.0,4085.0,2026-04,Low
+1025,2026-04-05,Riya Agarwal,North,Printer,Electronics,1,9400.0,9400.0,2026-04,Low
+1026,2026-04-08,Krish Bhat,West,Laptop,Electronics,2,33872.5,67745.0,2026-04,High
+1027,2026-04-12,Saanvi Pillai,South,Wireless Mouse,Electronics,9,860.0,7740.0,2026-04,Low
+1028,2026-04-15,Ayaan Malhotra,East,Office Chair,Furniture,3,7050.0,21150.0,2026-04,Medium
+1029,2026-04-19,Unknown Customer,North,Notebook,Stationery,19,78.0,1482.0,2026-04,Low
+1030,2026-02-24,Myra Chawla,West,Desk,Furniture,1,13800.0,13800.0,2026-02,Medium

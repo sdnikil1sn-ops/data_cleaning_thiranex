@@ -1,0 +1,8 @@
+metric,value
+rows_before_cleaning,31.0
+rows_after_cleaning,30.0
+duplicates_removed,1.0
+missing_values_before,4.0
+missing_values_after,0.0
+outlier_values_capped,11.0
+total_revenue,607777.0
